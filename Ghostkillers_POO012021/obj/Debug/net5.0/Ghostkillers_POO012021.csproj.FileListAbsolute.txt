@@ -1,0 +1,16 @@
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\bin\Debug\net5.0\Ghostkillers_POO012021.exe
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\bin\Debug\net5.0\Ghostkillers_POO012021.deps.json
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\bin\Debug\net5.0\Ghostkillers_POO012021.runtimeconfig.json
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\bin\Debug\net5.0\Ghostkillers_POO012021.runtimeconfig.dev.json
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\bin\Debug\net5.0\Ghostkillers_POO012021.dll
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\bin\Debug\net5.0\ref\Ghostkillers_POO012021.dll
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\bin\Debug\net5.0\Ghostkillers_POO012021.pdb
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\Ghostkillers_POO012021.csprojAssemblyReference.cache
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\Ghostkillers_POO012021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\Ghostkillers_POO012021.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\Ghostkillers_POO012021.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\Ghostkillers_POO012021.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\Ghostkillers_POO012021.dll
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\ref\Ghostkillers_POO012021.dll
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\Ghostkillers_POO012021.pdb
+C:\Users\RAUL\Desktop\Clon\Ghostkillers_POO012021\Ghostkillers_POO012021\obj\Debug\net5.0\Ghostkillers_POO012021.genruntimeconfig.cache

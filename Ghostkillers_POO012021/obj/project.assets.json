@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ale\\.nuget\\packages\\": {}
+    "C:\\Users\\RAUL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ale\\Desktop\\U\\CICLO III\\POO\\Labs\\Ghostkillers_POO012021\\Ghostkillers_POO012021\\Ghostkillers_POO012021.csproj",
+      "projectUniqueName": "C:\\Users\\RAUL\\Desktop\\Clon\\Ghostkillers_POO012021\\Ghostkillers_POO012021\\Ghostkillers_POO012021.csproj",
       "projectName": "Ghostkillers_POO012021",
-      "projectPath": "C:\\Users\\Ale\\Desktop\\U\\CICLO III\\POO\\Labs\\Ghostkillers_POO012021\\Ghostkillers_POO012021\\Ghostkillers_POO012021.csproj",
-      "packagesPath": "C:\\Users\\Ale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ale\\Desktop\\U\\CICLO III\\POO\\Labs\\Ghostkillers_POO012021\\Ghostkillers_POO012021\\obj\\",
+      "projectPath": "C:\\Users\\RAUL\\Desktop\\Clon\\Ghostkillers_POO012021\\Ghostkillers_POO012021\\Ghostkillers_POO012021.csproj",
+      "packagesPath": "C:\\Users\\RAUL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RAUL\\Desktop\\Clon\\Ghostkillers_POO012021\\Ghostkillers_POO012021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ale\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\RAUL\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
