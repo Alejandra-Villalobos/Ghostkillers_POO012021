@@ -14,11 +14,11 @@ namespace Ghostkillers_POO012021
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"The subtraction of {a} - {b} equals {SubNumbers(a, b)}");
+            Console.WriteLine($"The multiplication of {a} x {b} equals {MultNumbers(a, b)}");
              }
-             public static int SubNumbers(int a, int b)
+             public static int MultNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
