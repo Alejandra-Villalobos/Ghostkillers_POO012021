@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ghostkillers_POO012021/1.0.0": {
+        "runtime": {
+          "Ghostkillers_POO012021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ghostkillers_POO012021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
